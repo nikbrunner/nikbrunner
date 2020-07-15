@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 😊 My Name is Nik
-- 🔭 I'm currently working on my improving my web-dev skills, and my first big project
+- 🔭 I'm currently working on my improving my web-dev skills, and [sonderhaus](https://github.com/sonderhaus)
 - 👨🏼‍💻 I'm currently working for [diva-e](https://diva-e.com/)
 - 🌱 I'm currently learning React, GraphQL, ContextAPI, Node, Project-Architecture and Vim
 - 💬 Ask me about anything
