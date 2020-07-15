@@ -1,16 +1,63 @@
 ### Hi there 👋
 
-<!--
-**nikbrunner/nikbrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Nik
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````json
+{
+    "firstName": "Nikolaus",
+    "lastName": "Brunner",
+    "birthday": "1984-02-21",
+    "email": "nikolaus.brunner@protonmail.ch",
+    "phone": "+4917624330932",
+    "website": "nibru.dev",
+    "github": "github.com/nikbrunner",
+    "xing": "xing.com/profile/Nikolaus_Brunner4",
+    "martialStatus": "engaged",
+    "learning": [
+        "react", "graphql", "contextApi", "node", "projectArchitecture"
+    ],
+    "experience": [
+        {
+        "area": "Web Development",
+        "level": "Advanced Beginner",
+        "since": "January 2019",
+        "status": "Learning"
+        },
+        {
+        "area": "Photography",
+        "level": "Semi-Pro",
+        "since": "Mid 2013",
+        "status": "Serious hobby",
+        "specialty": [
+            "Landscapes",
+            "Cityscapes",
+            "Portraiture",
+            "Post Processing & Editing"
+            ]
+        },
+        {
+        "area": "Studio Sound Engineering",
+        "level": "Pro",
+        "since": "Mid 2010",
+        "status": "Retired",
+        "specialty": [
+            "ADR & Film Production Mixing",
+            "ADR & Dialogue Recording",
+            "Music Mastering",
+            "Music Mixing"
+            ]
+        },
+        {
+        "area": "Event Technician",
+        "level": "Pro",
+        "since": "Mid 2013",
+        "status": "Retired",
+        "specialty": [
+            "Live Video Engineering",
+            "Live Sound Engineering",
+            "Event Planing"
+            ]
+        }
+        ]
+}
+````
