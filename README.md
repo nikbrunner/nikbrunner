@@ -11,4 +11,8 @@
 - 📫 How to reach me: [nikolaus.brunner@protonmail.ch](mailto:nikolaus.brunner@protonmail.ch)
 - 🌍 My website: [nibru.dev](https://nibru.dev)
 
+## My Stats
+
 [![nibru's github stats](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=trueshow_icons=true)](https://github.com/nikbrunner/github-readme-stats)
+
+[![nibru's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikbrunner&layout=compact)](https://github.com/nikbrunner/github-readme-stats)
