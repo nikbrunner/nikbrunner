@@ -16,3 +16,7 @@
 [![nibru's github stats](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=trueshow_icons=true)](https://github.com/nikbrunner/github-readme-stats)
 
 [![nibru's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikbrunner&layout=compact)](https://github.com/nikbrunner/github-readme-stats)
+
+NOTE: Top languages does not reflect my skills it's a metric from github.
+
+Stats made possible with the great Github-Readme-Stats
