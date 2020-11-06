@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on my improving my web-dev skills, and [sonderhaus](https://github.com/sonderhaus)
 - 💻 My favourite technolgies to work with are `#react`, `#typescript`, `#scss` and native `#javascript`
 - 💼 I'm currently working for [DealerCenter Digital](https://bike.center/) in Landshut, Bavaria
-- 🌱 I'm currently learning advanced React, GraphQL, ContextAPI, Node, Project-Architecture and Vim
+- 🌱 I'm currently learning advanced React, TypeScript, SCSS, Project-Architecture and Vim
 - 🤔 I’m looking for help with Mechanical Keyboards, Vim and Linux
 - 🏞 To calm down, relax and change perspective I enjoy Nature, Photography and Science
 - 💬 Ask me about anything
