@@ -2,8 +2,8 @@
 
 - 😊 My Name is Nik
 - 🏔 I'm from Landshut, Bavaria
-- 💻 My favourite technologies to work with are `#react`, `#typescript`, `#scss` and native `#vim`
 - 💼 I'm am working for [DealerCenter Digital](https://bike.center/) in Landshut, Bavaria
+- 💻 My favourite technologies to work with are `#react`, `#typescript`, `#scss` and native `#vim`
 - 🌱 I'm currently learning advanced `#react` and `#typescript`, `#bash`, `#vim` and `#git`
 - 🏞 To calm down, relax and change perspective I enjoy nature, photography, philosophy and science
 - 📫 How to reach me: [nikolaus.brunner@protonmail.ch](mailto:niolaus.brunner@protonmail.ch)
