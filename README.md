@@ -8,6 +8,4 @@ My Name is Nik
 - I'm currently learning advanced `#redux` and `#typescript`, `#bash` and `#vim`.
 - To calm down, relax and change perspective I enjoy nature, photography, philosophy and science.
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=true&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
