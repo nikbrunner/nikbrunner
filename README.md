@@ -10,4 +10,4 @@ My Name is Nik
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=true&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api?username=nikbrunner&count_private=true&show_icons=true&theme=github_dark)
